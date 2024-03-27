@@ -1,0 +1,37 @@
+.header {
+  background-color: #333; /* Change the background color as needed */
+  color: #fff; /* Change the text color as needed */
+  padding: 1rem 0; /* Adjust padding as needed */
+}
+
+/* Navbar Styles */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.navbar-brand {
+  margin-right: 2rem; /* Adjust margin as needed */
+  font-size: 1.5rem; /* Adjust font size as needed */
+}
+
+.navbar-item {
+  color: #fff; /* Change the text color as needed */
+  text-decoration: none;
+  margin-right: 1rem; /* Adjust margin as needed */
+  font-size: 1.2rem; /* Adjust font size as needed */
+}
+
+.navbar-item:hover {
+  text-decoration: underline; /* Change hover effect as needed */
+}
+
+.navbar-menu {
+  margin-left: auto;
+}
